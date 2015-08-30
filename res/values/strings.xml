@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TranSmartActivity!</string>
+    <string name="app_name">TranSmart</string>
+   	<string-array name="state_code">
+   		<item>ar</item>
+		<item>bg</item>
+		<item>ca</item>
+		<item>zh-CHS</item>
+		<item>zh-CHT</item>
+		<item>cs</item>
+		<item>da</item>
+		<item>nl</item>
+		<item>en</item>
+		<item>et</item>
+		<item>fi</item>
+		<item>fr</item>
+		<item>de</item>
+		<item>el</item>
+		<item>ht</item>
+		<item>he</item>
+		<item>hi</item>
+		<item>hu</item>
+		<item>id</item>
+		<item>it</item>
+		<item>ja</item>
+		<item>ko</item>
+		<item>lv</item>
+		<item>lt</item>
+		<item>no</item>
+		<item>pl</item>
+		<item>pt</item>
+		<item>ro</item>
+		<item>ru</item>
+		<item>sk</item>
+		<item>sl</item>
+		<item>es</item>
+		<item>sv</item>
+		<item>th</item>
+		<item>tr</item>
+		<item>uk</item>
+		<item>vi</item>
+   	</string-array>
+   	
+   	<string name="toast_msg1">
+   		"This Langugage is not Supported"
+   	</string>
+   	
+   <string-array name="code_img">
+        <item>arabic</item>
+		<item>bulgarian</item>
+		<item>catalan</item>
+		<item>chinese_simplified</item>
+		<item>chinese_traditional</item>
+		<item>czech</item>
+		<item>danish</item>
+		<item>dutch</item>
+		<item>english</item>
+		<item>estonian</item>
+		<item>finnish</item>
+		<item>french</item>
+		<item>german</item>
+		<item>greek</item>
+		<item>haitian_creole</item>
+		<item>hebrew</item>
+		<item>hindi</item>
+		<item>hungarian</item>
+		<item>indonesian</item>
+		<item>italian</item>
+		<item>japanese</item>
+		<item>korean</item>
+		<item>latvian</item>
+		<item>lithuanian</item>
+		<item>norwegian</item>
+		<item>polish</item>
+		<item>portuguese</item>
+		<item>romanian</item>
+		<item>russian</item>
+		<item>slovak</item>
+		<item>slovenian</item>
+		<item>spanish</item>
+		<item>swedish</item>
+		<item>thai</item>
+		<item>turkish</item>
+		<item>ukrainian</item>
+		<item>vietnamese</item> 
+    </string-array>
+
+   	
+   	<string-array name="code_name">
+		<item>Arabic</item>
+		<item>Bulgarian</item>
+		<item>Catalan</item>
+		<item>Chinese (Simplified)</item>
+		<item>Chinese (Traditional)</item>
+		<item>Czech</item>
+		<item>Danish</item>
+		<item>Dutch</item>
+		<item>English</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Haitian Creole</item>
+		<item>Hebrew</item>
+		<item>Hindi</item>
+		<item>Hungarian</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Japanese</item>
+		<item>Korean</item>
+		<item>Latvian</item>
+		<item>Lithuanian</item>
+		<item>Norwegian</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Romanian</item>
+		<item>Russian</item>
+		<item>Slovak</item>
+		<item>Slovenian</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Thai</item>
+		<item>Turkish</item>
+		<item>Ukrainian</item>
+		<item>Vietnamese</item>   	
+   	</string-array>
+</resources>

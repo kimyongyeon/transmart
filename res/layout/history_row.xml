@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:padding="10dip"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+	<TextView 
+		android:id="@+id/history_row_tv01"
+		android:text="출발어 한국어, 도착어 영어"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+	<LinearLayout 
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<!-- 국기 -->
+		<LinearLayout 
+		android:gravity="center_vertical"
+		android:orientation="vertical"
+		android:layout_width="wrap_content"
+		android:layout_height="fill_parent">
+			<ImageView 
+				android:id="@+id/history_row_iv01"
+				android:background="@drawable/korean"
+				android:layout_marginBottom="5dip"
+				android:layout_width="25dip"
+				android:layout_height="25dip"/>
+			<ImageView 
+				android:id="@+id/history_row_iv02"
+				android:background="@drawable/english"
+				android:layout_width="25dip"
+				android:layout_height="25dip"/>
+		</LinearLayout>
+		<!-- 언어 -->
+		<LinearLayout 
+		android:background="@drawable/history_bubble"
+		android:gravity="center_horizontal"
+		android:orientation="vertical"
+		android:layout_weight="1"
+		android:layout_width="wrap_content"
+		android:padding="8dip"
+		android:layout_height="wrap_content">
+			<TextView
+				android:layout_marginLeft="5dip"
+				android:id="@+id/history_row_tv02"
+				android:textColor="#000000"
+				android:hint="시작언어 풀이"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"/>
+			<TextView 
+				android:layout_marginLeft="5dip"
+				android:id="@+id/history_row_tv03"
+				android:textColor="#000000"
+				android:hint="도착언어 풀이"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"/>
+		</LinearLayout>
+
+	</LinearLayout>
+		    
+</LinearLayout>
